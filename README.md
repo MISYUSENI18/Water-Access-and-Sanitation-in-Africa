@@ -19,7 +19,7 @@ This dataset analyzes the correlation between water access, sanitation condition
 6. Community Satisfaction and Accessibility 
 This dataset provides insights into the satisfaction levels of communities based on water access, sanitation quality, and 
 distance to the nearest water source. 
-Key Business Questions 
+#### Key Business Questions 
 1. Write an SQL query to calculate the average water availability (liters per capita per day) for each country. 
 2. Write an SQL query to retrieve details of communities where at least one water point is non-functional. 
 3. Please retrieve the information for the top five communities with the highest annual sanitation maintenance costs. 
